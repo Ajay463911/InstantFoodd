@@ -1,0 +1,47 @@
+body
+{
+    background-image: radial-gradient(white,lightgreen);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.username-container
+{
+    height: 20px;
+    width: 70%;
+    margin: 0px 0px 15px 0px;
+    border-radius: 10px;
+    padding: 3px 0px 3px 10px;  
+}
+
+.user-icon
+{
+    font-size: 20px;
+}
+.login-btn
+{
+    height: 28px;
+    width: 100%;
+    margin: 20px 0px 0px 0px;
+    border-radius: 15px;
+    background-color: orange;
+    border-width: 0px;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+.bct-btn
+{
+    height: 30px;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    border-radius: 20px;
+    background-color: yellowgreen;
+    border-width: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
